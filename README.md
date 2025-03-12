@@ -27,6 +27,4 @@ The main objective of this project was to determine which of the three marketing
 - **Campaigns A and C:** Both are viable options for broader deployment, but Campaign A showed a slight but consistent advantage in sales, making it the preferred choice.
 - **Next Steps:** Continue monitoring sales data for emerging trends and conduct further tests in specific regions or market segments.
 
-## How to Use
 
-1. Clone the repository to your local machine using:
